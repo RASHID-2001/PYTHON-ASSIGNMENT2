@@ -2,7 +2,7 @@
 QUESTION	WRITE A PROGRAM TO PERFORM A QUIZ WITH MULTIPLE CHOICE,PRINT THE RULES OF QUIZ AND PRINT THE TOTAL MARK OF THE USER
 """
 print("--------------------------------------------------------------------------------------------------------------------------------------------")
-print("\t\tWELCOME TO QUIZE TIME!\nRULES:-\n1>TOTAL 10 QUESTIONS EACH CARRIES 5 MARKS\n2>-2 MARKS FOR A WRONG ANSWER\n3>ANY CHOICE OTHER THAN <a,b,c,d> IS CONSIDERED AS WRONG ANSWER\n4>ENTER * TO LEAVE A QUESTION")
+print("\t\tWELCOME TO QUIZE TIME!\nRULES:-\n1>TOTAL 10 QUESTIONS EACH CARRIES 5 MARKS\n2>-2 MARKS FOR A WRONG ANSWER\n3>ANY CHOICE OTHER THAN <a,b,c,d> IS CONSIDERED AS WRONG ANSWER\n")
 print("--------------------------------------------------------------------------------------------------------------------------------------------")
 a=[0]*10
 print("\nQUESTION:-")
